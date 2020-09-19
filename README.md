@@ -1,2 +1,2 @@
-# Java---HackerRank
-Solutions 
+# Java---interview
+Hackerrank, Leetcode
